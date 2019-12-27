@@ -1,0 +1,194 @@
+.top{
+	border-top: 6px solid #F08D18;
+	height: 107px;
+}
+.top_1{
+	height: 96px;
+	margin-top: 9px;
+}
+.top_1 h1{
+	height: 80px;
+	width: 423px;
+}
+.top .img2{
+	margin-top: 38px;
+	margin-left: 48px;
+}
+.top .img10{
+	margin-top: -20px;
+}
+.top .denglu{
+	margin-top: -70px;
+}
+.top .denglu li{
+	float: left;
+	
+	}
+.top .denglu li a{
+	color: black;
+	font-size: 12px;
+}
+.top .denglu li span{
+	color: #F5B160;
+}
+.nav{
+	background-color: #4B4A48;
+	height: 52px;
+}
+.nav a{
+	color: white;
+	display: inline-block;
+	width: 120px;
+	height: 52px;
+}
+.nav_1 li{
+	float: left;
+	width: 120px;
+	text-align: center;
+	line-height: 52px;
+}
+.active{
+	background-color: #F08D18;
+	position: relative;
+
+
+}
+.nav li:hover a{
+	width: 120px;
+	height: 51px;
+	background-color: #F08D18;
+	border-bottom:1px solid white;
+}
+
+.content_left{
+	width: 813px;
+}
+.content_right{
+	width: 306px;
+}
+.geng{
+	height: 58px;
+	line-height: 58px;
+	border-bottom: 2px solid black;
+}
+.img{
+	margin-top: 10px;
+}
+.img li{
+	float: left;
+	margin-right: 21px;
+}
+.img li p{
+	text-align: center;
+	font-size: 12px;
+	margin-top: 16px;
+}
+
+.img11{
+	margin-top: 10px;
+}
+.content_left .img2{
+	margin-top: 10px;
+}
+.content_left .img2 li{
+	float: left;
+}
+.content_left .img2 .i5{
+	margin-bottom: 20px;	
+}
+.content_left .img2 p{
+	font-size: 12px;
+	text-align: center;
+}
+.l1{
+	height: 260px;
+	width: 252px;
+}
+.l2{
+	height: 120px;
+	width: 252px;
+}
+.text li{
+	background: url(../imgs/tubiao.jpg) no-repeat left center;
+	padding-left: 10px;
+	font-size: 14px;
+	line-height: 30px;
+}
+.redian{
+	border-bottom: 2px solid black;
+	line-height: 50px;
+	margin-bottom: 20px;
+}
+.bottom a{
+	color: black;
+	font-size: 12px;
+}
+.bottom li{
+	float: left;
+	margin-right: 10px;
+}
+.footer{
+	background-color: #4B4A48;
+	height: 273px;
+	border-top: 6px solid #F08D18;
+	margin-top: 20px;
+	}
+.footer_1 ul{
+	margin-right: 107px;
+	margin-top: 18px;
+	margin-bottom: 20px;
+	
+}
+.footer_1 ul li{
+	line-height: 30px;
+	color: white;
+	font-size: 12px;
+}
+.footer_1 .li{
+	font-size: 18px;
+}
+.footer_1 img{
+	margin-top: 18px;	
+}
+.footer_bottom p{
+	font-size: 12px;
+	color: white;
+	height: 62px;
+	line-height: 62px;
+}
+.footer_bottom{
+	border-bottom: 1px dotted #F08D18;
+}
+.p1{
+	font-size: 12px;
+	color: white;
+	margin-top: 10px;
+}
+.biaodan li{
+	float: left;
+	width: 180px;
+	height: 48px;
+	text-align: center;
+	line-height: 48px;
+}
+.bd{
+	height: 48px;
+}
+.biaodan li:hover{
+	background-color: #CCCCCC;
+}
+.content input{
+	margin-left: 100px;
+	margin-bottom: 10px;
+}
+.content{
+}
+.content p{
+	line-height: 30px;
+}
+.biaodan{
+	border: 2px solid black;
+	position: absolute;
+	top:180px;left:18px;
+	background-color: white;
+}

@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1577408686853'); /* IE9 */
+  src: url('iconfont.eot?t=1577408686853#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQwAAsAAAAACHwAAAPkAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqEZIQdATYCJAMMCwgABCAFhG0HNhtjBxFVnE3IfhS4exbIhtPwt/pIDC1iCHHBZPsf+dB71ptMWi/tNCcoC+AIF2f8yZfTdbgY9UJ1yTq2nz5JPx37+13ncRaUQkhQWBoggIDs3x+qZp4HbD6LxeX/rL0xF8oFMBygAI2xO4doC1Ig70O82mUeBgJADnu+SGp6LgcpWOijCAAyfsyoIZAm9GAraARSlbhgIQvSAhGkTC1zDRaavd8nHxElBRiIKPSjCkemDUfim+g3AhX+C+hPGyAMZwXALgMoAF8AC5CBhfbeoEHcF4VclrPVuWKwIGCGCv3/j8dXlOKF/uMxABFDlyuR6iljDkpgcYAAbwQeKnD8TkDcIXkCIGaEalpJIdPXt5TLbcxtZEp703lqNafRqHS6XlotT1gbhziF87qRfh3rTLu05t1LLRzrumOWaNl40iYap1qsqdfZrNDWqYcEnzSKf/DCdcOz3lyHWtW5sVeHRqXQ6cw16y102pHLT9efLT3jvu4UB9+TJyyuX1q6ZF3PELXavEPLb7o/5OXDXp1qTqu1UC+zuK1yXAbhcNj+pdbkfD3p1PXqXMEfGSM7ct06M8Hs8IRdY7pJ6QaHz3QtfXDflqxlNGtZQ34/ItyvpHjZSS9coJ2IKGxXU0+FvLhTA3Z92mwSlLcVdgEZn323FOcdOMhLJlfaxGSGYFuIQ3/velPvYOhm9HV06OfdwFgM0B9R0HFIt+tMYzPzOR9/m80hSJm0rnhf6PjMKJfchNa7lw2oiVxJQswTkx02Pnf8WCLhIrkCbtcubqt7eMEGo29WX12+Cd/qX9/krSYlJdtM+iT7WWyS2BnIyfQcb7W4cZcMET6BlXXONrIg0y3G0dy+9Uz7dBdeGkuq3rosmMts2xuxZpRBtNlhjZtcTIz5cTaLYAvemEjkGAwA+P+PllHWSwr0Gm34D/4GT45cEA8yiP0KlipYAMADn/WJ3v/CNHMC0rvkIPDWBQ3rWEWkG+gkvsXXUlQd2T3FiDkF3nU5ABj7dleaNS4GCCmzCBgSdkBJuRJZqi+IKISCmFQCyPk4LVcwQVxkMgDeHgCEoRcw9J0EytCbyFI/IGLuD2KGuSDHZ7Khgnu5SCGUjAmoFXLdNsY0sfBLz5iOlaS4yKPfkYY8BKEXpFMnbJCGmDJMacRswFBbwxGOw6pqoaO2QM1extzFvm+KXsnTbW0JKQiSGEoAZQVyWqthnOZMZH7+DKVGFYkqasrcd4gM8vZByBM0IJ7kTaOaS7nPYJKKMGYAg7Rq4AhWVBnxFuiK+xWQxjxZh2gn5pNGpqncm15Z398WADl9NxpDKGEheS6bbJTOlN6yAA==') format('woff2'),
+  url('iconfont.woff?t=1577408686853') format('woff'),
+  url('iconfont.ttf?t=1577408686853') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1577408686853#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-dianhua:before {
+  content: "\e63a";
+}
+
+.icon-qq:before {
+  content: "\e680";
+}
+
